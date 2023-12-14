@@ -16,7 +16,7 @@ export { HeroDark as Dark };
 
 /* START HERE
  **************************************************************
-  Add your GitHub username (string - "YourUsername") below.
+  Add your GitHub username (string - "fionachiaraviglio") below.
 */
 export const githubUsername = "fionachiaraviglio";
 
